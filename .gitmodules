@@ -28,3 +28,6 @@
 [submodule "10/calvin_vuong"]
 	path = 10/calvin_vuong
 	url = https://github.com/calvinvuong/Work0_Euler
+[submodule "10/joel_ye"]
+	path = 10/joel_ye
+	url = https://github.com/joel99/SystemHW1-ProjectEuler.git
