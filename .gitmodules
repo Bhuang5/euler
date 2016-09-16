@@ -10,3 +10,6 @@
 [submodule "10/kli"]
 	path = 10/kli
 	url = https://github.com/noobbyte/euler
+[submodule "5/james_wang"]
+	path = 5/james_wang
+	url = https://github.com/james9909/euler-mks65
