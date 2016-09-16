@@ -1,3 +1,6 @@
 [submodule "5/julian_atkin"]
 	path = 5/julian_atkin
 	url = https://github.com/jmdatkin/work0.git
+[submodule "sys_hw00"]
+	path = sys_hw00
+	url = git@github.com:atolen/sys_hw00.git
