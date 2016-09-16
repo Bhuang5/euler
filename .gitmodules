@@ -1,12 +1,9 @@
 [submodule "5/julian_atkin"]
 	path = 5/julian_atkin
 	url = https://github.com/jmdatkin/work0.git
-<<<<<<< HEAD
 [submodule "sys_hw00"]
 	path = sys_hw00
 	url = git@github.com:atolen/sys_hw00.git
-=======
 [submodule "5/manish_saha"]
 	path = 5/manish_saha
 	url = https://github.com/sahamanish99/work_euler.git
->>>>>>> 1ed680d500f8ac83f582c47ec78e45ad359694c7
