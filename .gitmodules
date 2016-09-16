@@ -19,3 +19,9 @@
 [submodule "4/oliver_chen"]
 	path = 4/oliver_chen
 	url = https://github.com/Chen-Oliver/eulerprobs.git
+[submodule "5/Euler"]
+	path = 5/Euler
+	url = https://github.com/mzhu3/Euler.git
+[submodule "5/Matthew_Zhu"]
+	path = 5/Matthew_Zhu
+	url = https://github.com/mzhu3/Euler.git
