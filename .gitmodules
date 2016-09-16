@@ -31,3 +31,6 @@
 [submodule "10/joel_ye"]
 	path = 10/joel_ye
 	url = https://github.com/joel99/SystemHW1-ProjectEuler.git
+[submodule "10/emmav"]
+	path = 10/emmav
+	url = https://github.com/evookelj/Euler.git
