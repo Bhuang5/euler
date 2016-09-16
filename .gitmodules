@@ -13,3 +13,6 @@
 [submodule "5/james_wang"]
 	path = 5/james_wang
 	url = https://github.com/james9909/euler-mks65
+[submodule "10/stephanie_yoon"]
+	path = 10/stephanie_yoon
+	url = https://github.com/st234pa/eulerproblems.git
