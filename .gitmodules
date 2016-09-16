@@ -7,3 +7,6 @@
 [submodule "5/manish_saha"]
 	path = 5/manish_saha
 	url = https://github.com/sahamanish99/work_euler.git
+[submodule "10/kli"]
+	path = 10/kli
+	url = https://github.com/noobbyte/euler
