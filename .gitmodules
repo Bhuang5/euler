@@ -25,3 +25,6 @@
 [submodule "5/Matthew_Zhu"]
 	path = 5/Matthew_Zhu
 	url = https://github.com/mzhu3/Euler.git
+[submodule "10/calvin_vuong"]
+	path = 10/calvin_vuong
+	url = https://github.com/calvinvuong/Work0_Euler
