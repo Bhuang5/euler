@@ -1,3 +1,6 @@
 [submodule "5/julian_atkin"]
 	path = 5/julian_atkin
 	url = https://github.com/jmdatkin/work0.git
+[submodule "5/manish_saha"]
+	path = 5/manish_saha
+	url = https://github.com/sahamanish99/work_euler.git
