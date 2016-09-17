@@ -67,3 +67,6 @@
 [submodule "5/anna_tolen"]
 	path = 5/anna_tolen
 	url = git@github.com:atolen/sys_hw00.git
+[submodule "10/jack_schluger"]
+	path = 10/jack_schluger
+	url = https://github.com/jschluger/projecteuler.git
