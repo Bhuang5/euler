@@ -43,3 +43,6 @@
 [submodule "10/grace_stempel"]
 	path = 10/grace_stempel
 	url = git@github.com:gstempel/Work-0.git
+[submodule "4/brian_yang"]
+	path = 4/brian_yang
+	url = https://github.com/brian-yang/Systems-ProjectEuler.git
