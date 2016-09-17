@@ -88,3 +88,6 @@
 [submodule "10/karen_huang"]
 	path = 10/karen_huang
 	url = https://github.com/khuang428/MKS65.git
+[submodule "5/jackson_morgan"]
+	path = 5/jackson_morgan
+	url = https://github.com/jmorgan28/jackson_morgan.git
