@@ -85,3 +85,6 @@
 [submodule "4/christopher_sherling"]
 	path = 4/christopher_sherling
 	url = https://github.com/csherling/systemseuler.git
+[submodule "10/karen_huang"]
+	path = 10/karen_huang
+	url = https://github.com/khuang428/MKS65.git
