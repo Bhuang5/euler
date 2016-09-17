@@ -82,3 +82,6 @@
 [submodule "5/ruochong_wu"]
 	path = 5/ruochong_wu
 	url = https://github.com/wuruochong/Systems.git
+[submodule "4/christopher_sherling"]
+	path = 4/christopher_sherling
+	url = https://github.com/csherling/systemseuler.git
