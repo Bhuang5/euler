@@ -64,3 +64,6 @@
 [submodule "10/w_venderbush"]
 	path = 10/w_venderbush
 	url = https://github.com/wvenderbush/euler.git
+[submodule "5/anna_tolen"]
+	path = 5/anna_tolen
+	url = git@github.com:atolen/sys_hw00.git
