@@ -76,3 +76,6 @@
 [submodule "4/arvind_mahankali"]
 	path = 4/arvind_mahankali
 	url = https://github.com/amahankali/hw1work
+[submodule "5/karol_regula"]
+	path = 5/karol_regula
+	url = https://github.com/Karol-Regula/Karol-Regula-Project-Euler.git
