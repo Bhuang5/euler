@@ -46,3 +46,6 @@
 [submodule "4/brian_yang"]
 	path = 4/brian_yang
 	url = https://github.com/brian-yang/Systems-ProjectEuler.git
+[submodule "10/nala-s"]
+	path = 10/nala-s
+	url = https://github.com/goyyapazham/euler.git
