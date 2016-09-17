@@ -55,3 +55,6 @@
 [submodule "4/zicheng_zhen"]
 	path = 4/zicheng_zhen
 	url = https://github.com/Zzcnick/project_euler.git
+[submodule "10/MaxBertfield"]
+	path = 10/MaxBertfield
+	url = https://github.com/maxbert/MaxBertfield_9-15.git
