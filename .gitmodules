@@ -79,3 +79,6 @@
 [submodule "5/karol_regula"]
 	path = 5/karol_regula
 	url = https://github.com/Karol-Regula/Karol-Regula-Project-Euler.git
+[submodule "5/ruochong_wu"]
+	path = 5/ruochong_wu
+	url = https://github.com/wuruochong/Systems.git
