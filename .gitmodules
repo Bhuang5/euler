@@ -37,3 +37,6 @@
 [submodule "4/charles_zhang"]
 	path = 4/charles_zhang
 	url = https://github.com/czhangstuycs/SystemsEuler.git
+[submodule "10/billy_wong"]
+	path = 10/billy_wong
+	url = https://github.com/billywongstuy/Euler-Systems
