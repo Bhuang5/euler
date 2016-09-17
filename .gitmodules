@@ -52,3 +52,6 @@
 [submodule "4/anthony_liang"]
 	path = 4/anthony_liang
 	url = https://github.com/aliang8/system.git
+[submodule "4/zicheng_zhen"]
+	path = 4/zicheng_zhen
+	url = https://github.com/Zzcnick/project_euler.git
