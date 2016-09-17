@@ -61,3 +61,6 @@
 [submodule "4/haley_zeng"]
 	path = 4/haley_zeng
 	url = https://github.com/hhzrabbit/eulerProblems.git
+[submodule "10/w_venderbush"]
+	path = 10/w_venderbush
+	url = https://github.com/wvenderbush/euler.git
