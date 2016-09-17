@@ -34,3 +34,6 @@
 [submodule "10/emmav"]
 	path = 10/emmav
 	url = https://github.com/evookelj/Euler.git
+[submodule "4/SystemsEuler"]
+	path = 4/SystemsEuler
+	url = https://github.com/czhangstuycs/SystemsEuler
