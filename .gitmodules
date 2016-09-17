@@ -58,3 +58,6 @@
 [submodule "10/MaxBertfield"]
 	path = 10/MaxBertfield
 	url = https://github.com/maxbert/MaxBertfield_9-15.git
+[submodule "4/haley_zeng"]
+	path = 4/haley_zeng
+	url = https://github.com/hhzrabbit/eulerProblems.git
