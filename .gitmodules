@@ -40,3 +40,6 @@
 [submodule "10/billy_wong"]
 	path = 10/billy_wong
 	url = https://github.com/billywongstuy/Euler-Systems
+[submodule "10/grace_stempel"]
+	path = 10/grace_stempel
+	url = git@github.com:gstempel/Work-0.git
