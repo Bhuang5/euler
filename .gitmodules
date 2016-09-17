@@ -70,6 +70,6 @@
 [submodule "10/jack_schluger"]
 	path = 10/jack_schluger
 	url = https://github.com/jschluger/projecteuler.git
-[submodule "10/0_systems"]
-	path = 10/0_systems
+[submodule "10/alvin_zhu"]
+	path = 10/alvin_zhu
 	url = https://github.com/alvinzhu33/0_systems.git
