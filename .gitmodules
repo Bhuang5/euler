@@ -139,3 +139,6 @@
 [submodule "5/kevin_zhang"]
 	path = 5/kevin_zhang
 	url = https://github.com/FieryDarkWraith/Euler-s-Headache.git
+[submodule "4/euler"]
+	path = 4/anthony_zeng
+	url = https://github.com/anthonyzeng99/euler
