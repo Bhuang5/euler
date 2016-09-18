@@ -91,9 +91,3 @@
 [submodule "5/jackson_morgan"]
 	path = 5/jackson_morgan
 	url = https://github.com/jmorgan28/jackson_morgan.git
-[submodule "4/Systems"]
-	path = 4/Systems
-	url = https://github.com/parkjmjohn/Systems.git
-[submodule "4/john_park"]
-	path = 4/john_park
-	url = https://github.com/parkjmjohn/Systems.git
