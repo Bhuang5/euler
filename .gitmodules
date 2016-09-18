@@ -133,3 +133,9 @@
 [submodule "5/seiji_yawata"]
 	path = 5/seiji_yawata
 	url = https://github.com/yawata159/euler
+[submodule "5/euler"]
+	path = 5/euler
+	url = https://github.com/mks65/euler.git
+[submodule "5/kevin_zhang"]
+	path = 5/kevin_zhang
+	url = https://github.com/FieryDarkWraith/Euler-s-Headache.git
