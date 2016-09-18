@@ -103,3 +103,6 @@
 [submodule "10/Julius_Freyra"]
 	path = 10/Julius_Freyra
 	url = https://github.com/JFreyra/Julius_Freyra.git
+[submodule "10/james_yang"]
+	path = 10/james_yang
+	url = https://github.com/jyang1737/euler-systems.git
