@@ -148,3 +148,6 @@
 [submodule "4/gabriel_marks"]
 	path = 4/gabriel_marks
 	url = git@github.com:71619997a/Euler_12345.git
+[submodule "4/shaeq_ahmed"]
+	path = 4/shaeq_ahmed
+	url = https://github.com/shaeqahmed/eulerprobs.git
