@@ -124,3 +124,6 @@
 [submodule "5/anthony_chen"]
 	path = 5/anthony_chen
 	url = https://github.com/achencoms/air_conditioning.git
+[submodule "5/Soleil_Fortune"]
+	path = 5/Soleil_Fortune
+	url = https://github.com/fortune599/Euler_Systems.git
