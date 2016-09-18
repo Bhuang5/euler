@@ -130,3 +130,6 @@
 [submodule "10/giovanni_topa"]
 	path = 10/giovanni_topa
 	url = https://github.com/gTopa/systemsHW0.git
+[submodule "5/seiji_yawata"]
+	path = 5/seiji_yawata
+	url = https://github.com/yawata159/euler
