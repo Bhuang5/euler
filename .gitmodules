@@ -100,3 +100,6 @@
 [submodule "10/jieyu_xu"]
 	path = 10/jieyu_xu
 	url = https://github.com/jieyuxu/euler
+[submodule "10/Julius_Freyra"]
+	path = 10/Julius_Freyra
+	url = https://github.com/JFreyra/Julius_Freyra.git
