@@ -97,3 +97,6 @@
 [submodule "4/shaina_peters"]
 	path = 4/shaina_peters
 	url = https://github.com/darthbeep/Systems
+[submodule "10/jieyu_xu"]
+	path = 10/jieyu_xu
+	url = https://github.com/jieyuxu/euler
