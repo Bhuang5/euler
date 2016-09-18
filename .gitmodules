@@ -151,3 +151,6 @@
 [submodule "4/shaeq_ahmed"]
 	path = 4/shaeq_ahmed
 	url = https://github.com/shaeqahmed/eulerprobs.git
+[submodule "10/systems"]
+	path = 10/systems
+	url = https://github.com/xinhuixu/systems.git
