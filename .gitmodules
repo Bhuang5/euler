@@ -127,3 +127,6 @@
 [submodule "5/Soleil_Fortune"]
 	path = 5/Soleil_Fortune
 	url = https://github.com/fortune599/Euler_Systems.git
+[submodule "10/giovanni_topa"]
+	path = 10/giovanni_topa
+	url = https://github.com/gTopa/systemsHW0.git
