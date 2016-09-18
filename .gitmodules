@@ -145,3 +145,6 @@
 [submodule "4/ely_sandine"]
 	path = 4/ely_sandine
 	url = https://github.com/esandine/SystemsHW1Euler.git
+[submodule "4/gabriel_marks"]
+	path = 4/gabriel_marks
+	url = git@github.com:71619997a/Euler_12345.git
