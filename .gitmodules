@@ -142,3 +142,6 @@
 [submodule "4/euler"]
 	path = 4/anthony_zeng
 	url = https://github.com/anthonyzeng99/euler
+[submodule "4/ely_sandine"]
+	path = 4/ely_sandine
+	url = https://github.com/esandine/SystemsHW1Euler.git
