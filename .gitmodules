@@ -133,3 +133,6 @@
 [submodule "5/seiji_yawata"]
 	path = 5/seiji_yawata
 	url = https://github.com/yawata159/euler
+[submodule "4/euler"]
+	path = 4/euler
+	url = https://github.com/anthonyzeng99/euler
