@@ -94,3 +94,6 @@
 [submodule "4/john_park"]
 	path = 4/john_park
 	url = https://github.com/parkjmjohn/Systems
+[submodule "4/shaina_peters"]
+	path = 4/shaina_peters
+	url = https://github.com/darthbeep/Systems
