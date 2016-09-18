@@ -112,3 +112,6 @@
 [submodule "4/Matthew_So"]
 	path = 4/Matthew_So
 	url = https://github.com/MatthewSo/Work0.git
+[submodule "4/yikai_wang"]
+	path = 4/yikai_wang
+	url = https://github.com/getDolla/C.git
