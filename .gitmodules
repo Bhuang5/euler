@@ -157,3 +157,6 @@
 [submodule "5/Jiawei_Chen"]
 	path = 5/Jiawei_Chen
 	url = https://github.com/ThatAznKid/euler_hw.git
+[submodule "10/quinn-dibble-euler"]
+	path = 10/quinn-dibble-euler
+	url = https://github.com/Iamnotsquishy/quinn-dibble-euler.git
