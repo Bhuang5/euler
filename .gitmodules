@@ -115,3 +115,6 @@
 [submodule "4/yikai_wang"]
 	path = 4/yikai_wang
 	url = https://github.com/getDolla/C.git
+[submodule "10/sarah_yoon"]
+	path = 10/sarah_yoon
+	url = https://github.com/syoon123/Euler.git
