@@ -106,3 +106,9 @@
 [submodule "10/james_yang"]
 	path = 10/james_yang
 	url = https://github.com/jyang1737/euler-systems.git
+[submodule "10/Matthew_So"]
+	path = 10/Matthew_So
+	url = https://github.com/MatthewSo/Work0.git
+[submodule "4/Matthew_So"]
+	path = 4/Matthew_So
+	url = https://github.com/MatthewSo/Work0.git
