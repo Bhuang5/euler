@@ -220,6 +220,12 @@
 [submodule "4/HW0-Euler"]
 	path = 4/HW0-Euler
 	url = https://github.com/arpita-abrol/HW0-Euler.git
+<<<<<<< HEAD
 [submodule "10/HW00"]
 	path = 10/HW00
 	url = https://github.com/sabiden/HW00
+=======
+[submodule "4/Ceming_Huang"]
+	path = 4/Ceming_Huang
+	url = https://github.com/Ceming/Ceming_Huang.git
+>>>>>>> 4ceb7a3e184ac10059a93242e13721e69df6299a
