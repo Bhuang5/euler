@@ -166,3 +166,6 @@
 [submodule "4/lucy_tang"]
 	path = 4/lucy_tang
 	url = git@github.com:lucytang4/Work-0.git
+[submodule "5/noah_fichter"]
+	path = 5/noah_fichter
+	url = https://github.com/nfichter/NFEuler.git
