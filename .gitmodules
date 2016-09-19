@@ -181,3 +181,6 @@
 [submodule "10/william_xiang"]
 	path = 10/william_xiang
 	url = https://github.com/wxiang54/HW0-Systems.git
+[submodule "10/xinhui_xu"]
+	path = 10/xinhui_xu
+	url = https://github.com/xinhuixu/systems.git
