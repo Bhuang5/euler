@@ -205,3 +205,6 @@
 [submodule "4/Will_Ostlund"]
 	path = 4/Will_Ostlund
 	url = https://github.com/wostlund/systems-00eulerProblems
+[submodule "4/wilson_berkow"]
+	path = 4/wilson_berkow
+	url = git@github.com:WilsonBerkow/mks65_euler.git
