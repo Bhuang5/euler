@@ -202,3 +202,6 @@
 [submodule "4/jennifer_yu"]
 	path = 4/jennifer_yu
 	url = https://github.com/Jennifer-Yu/JY_ProjectEuler.git
+[submodule "4/Will_Ostlund"]
+	path = 4/Will_Ostlund
+	url = https://github.com/wostlund/systems-00eulerProblems
