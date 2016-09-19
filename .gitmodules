@@ -181,3 +181,6 @@
 [submodule "5/nobel_gautam"]
 	path = 5/nobel_gautam
 	url = https://github.com/ThisIsMyNick/euler.git
+[submodule "5/seabasschin"]
+	path = 5/seabasschin
+	url = git@github.com:seabasschin/sebastian_dittgen.git
