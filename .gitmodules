@@ -187,3 +187,6 @@
 [submodule "10/xinhui_xu"]
 	path = 10/xinhui_xu
 	url = https://github.com/xinhuixu/systems.git
+[submodule "10/Harry_Lum"]
+	path = 10/Harry_Lum
+	url = https://github.com/lilharry/classwork
