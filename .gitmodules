@@ -208,3 +208,6 @@
 [submodule "4/wilson_berkow"]
 	path = 4/wilson_berkow
 	url = git@github.com:WilsonBerkow/mks65_euler.git
+[submodule "10/leon_loi"]
+	path = 10/leon_loi
+	url = https://github.com/potezy/SystemsHW
