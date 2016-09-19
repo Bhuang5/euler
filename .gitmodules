@@ -178,9 +178,6 @@
 [submodule "4/sharon_lin"]
 	path = 4/sharon_lin
 	url = https://github.com/sharon-lin/Systems-Practice
-[submodule "gautam_nobel"]
-	path = gautam_nobel
-	url = https://github.com/ThisIsMyNick/euler.git
 [submodule "5/nobel_gautam"]
 	path = 5/nobel_gautam
 	url = https://github.com/ThisIsMyNick/euler.git
