@@ -214,3 +214,6 @@
 [submodule "4/shantanu_jha"]
 	path = 4/shantanu_jha
 	url = https://github.com/Phionx/ProjectEulerC.git
+[submodule "5/Nancy_Cao"]
+	path = 5/Nancy_Cao
+	url = https://github.com/nancycao/W0_euler.git
