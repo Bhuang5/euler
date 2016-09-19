@@ -163,3 +163,6 @@
 [submodule "5/dorothy_ng"]
 	path = 5/dorothy_ng
 	url = https://github.com/yureistar/Systems_Work.git
+[submodule "4/lucy_tang"]
+	path = 4/lucy_tang
+	url = git@github.com:lucytang4/Work-0.git
