@@ -172,3 +172,6 @@
 [submodule "5/tina_la"]
 	path = 5/tina_la
 	url = https://github.com/LumosNox77/work0.git
+[submodule "5/RiegBaumhauer_Felix"]
+	path = 5/RiegBaumhauer_Felix
+	url = https://github.com/FelixRiegBaumhauer/RiegBaumhauer_Felix
