@@ -199,3 +199,6 @@
 [submodule "5/celine_yan"]
 	path = 5/celine_yan
 	url = https://github.com/cyan478/CYeu-lat-er
+[submodule "4/jennifer_yu"]
+	path = 4/jennifer_yu
+	url = https://github.com/Jennifer-Yu/JY_ProjectEuler.git
