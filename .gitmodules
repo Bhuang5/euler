@@ -211,3 +211,6 @@
 [submodule "10/leon_loi"]
 	path = 10/leon_loi
 	url = https://github.com/potezy/SystemsHW
+[submodule "4/shantanu_jha"]
+	path = 4/shantanu_jha
+	url = https://github.com/Phionx/ProjectEulerC.git
