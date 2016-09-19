@@ -169,3 +169,6 @@
 [submodule "5/noah_fichter"]
 	path = 5/noah_fichter
 	url = https://github.com/nfichter/NFEuler.git
+[submodule "5/tina_la"]
+	path = 5/tina_la
+	url = https://github.com/LumosNox77/work0.git
