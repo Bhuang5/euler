@@ -196,3 +196,6 @@
 [submodule "5/ricky_wu"]
 	path = 5/ricky_wu
 	url = https://github.com/rickywu1999/ricky_wu.git
+[submodule "5/celine_yan"]
+	path = 5/celine_yan
+	url = https://github.com/cyan478/CYeu-lat-er
