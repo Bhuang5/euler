@@ -172,3 +172,12 @@
 [submodule "5/RiegBaumhauer_Felix"]
 	path = 5/RiegBaumhauer_Felix
 	url = https://github.com/FelixRiegBaumhauer/RiegBaumhauer_Felix
+[submodule "4/sharon_lin"]
+	path = 4/sharon_lin
+	url = https://github.com/sharon-lin/Systems-Practice
+[submodule "5/nobel_gautam"]
+	path = 5/nobel_gautam
+	url = https://github.com/ThisIsMyNick/euler.git
+[submodule "10/william_xiang"]
+	path = 10/william_xiang
+	url = https://github.com/wxiang54/HW0-Systems.git
