@@ -151,9 +151,6 @@
 [submodule "4/shaeq_ahmed"]
 	path = 4/shaeq_ahmed
 	url = https://github.com/shaeqahmed/eulerprobs.git
-[submodule "10/systems"]
-	path = 10/xu_xinhui
-	url = https://github.com/xinhuixu/systems.git
 [submodule "5/Jiawei_Chen"]
 	path = 5/Jiawei_Chen
 	url = https://github.com/ThatAznKid/euler_hw.git
@@ -181,6 +178,12 @@
 [submodule "5/nobel_gautam"]
 	path = 5/nobel_gautam
 	url = https://github.com/ThisIsMyNick/euler.git
+<<<<<<< HEAD
 [submodule "5/seabasschin"]
 	path = 5/seabasschin
 	url = git@github.com:seabasschin/sebastian_dittgen.git
+=======
+[submodule "10/william_xiang"]
+	path = 10/william_xiang
+	url = https://github.com/wxiang54/HW0-Systems.git
+>>>>>>> 4cc046636b1b1f1db87e9b4931d81367ae0f4636
