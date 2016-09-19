@@ -193,3 +193,6 @@
 [submodule "4/yueyang_xu"]
 	path = 4/yueyang_xu
 	url = https://github.com/Heheggg/Yueyang-Sam--Xu
+[submodule "5/ricky_wu"]
+	path = 5/ricky_wu
+	url = https://github.com/rickywu1999/ricky_wu.git
